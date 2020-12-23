@@ -1,2 +1,3 @@
 # card-deck-operations
 Class: CSE 205 - Assignment: 2
+Description: I wrote this Java program from scratch for my CSE 205 class in order to practice my object-oriented programming and file I/O skills. I created the Card class in Card.java and the Deck class in Deck.java which contains objects of Card class and a few Deck methods. I make an object of Deck class in Assn2.java. The program gives the user the option to create a standard deck or create a custom deck by reading from a file. In either case, a two new Deck objects are made--one to represent the main deck and the other to represent the user's hand--and the user can then choose from various operations to do, such as drawing a card, replacing a card, and shuffling the deck.
